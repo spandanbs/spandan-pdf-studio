@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { jsPDF } from "jspdf";
+import jsPDF from "jspdf";
 import { useDropzone } from "react-dropzone";
 import { motion } from "framer-motion";
 
